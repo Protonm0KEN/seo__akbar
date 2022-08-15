@@ -1,0 +1,398 @@
+@media screen and (max-width: 555px) {
+    .rocket__bg_icon{
+        scale: 1;
+        width: 325px;
+        height: 235px;
+        position: absolute;
+        top: 489px;
+        left: 43px;
+    }
+    .header__title{
+        font-size: 32px;
+        text-align: center;
+    }
+    .seo__marketing__info_description{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .header__nav{
+        display: none;
+    }
+    .laptop__girl{
+        width: 100%;
+    }
+    .header__top{
+        display: none;
+    }
+    .searcher{
+        width: 325px;
+        width: 100%;
+    }
+    .header__soc{
+        display: none;
+    }
+    .info__card_title{
+        font-size: 25px;
+        text-align: center;
+    }
+    .info__card_subtitle{
+        font-size: 14px;
+        text-align: center;
+    }
+    .info__card_description{
+        font-size: 14px;
+    }
+    .digital__marketing_card, .search__optimization_card{
+        display: block;
+    }
+    .digital__marketing_card img:nth-child(1), .search__optimization_card img:nth-child(1){
+        max-width: 50px;
+        max-height: 50px;
+    }
+    .info__card{
+        padding: 10px;
+        top: 280px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .info__card__right_block{
+        row-gap: 17px;
+    }
+    .info__card__left_block{
+        margin-bottom: 20px;
+    }
+    .info__card_description{
+        text-align: center;
+    }
+    .purple__girl{
+        width: 100%;
+    }
+    .our__services__title{
+        text-align: center;
+    }
+    .main{
+        margin-top: 285px;
+    }
+    .main__spyro__second__card{
+        display: block;
+    }
+    .seo__purple__light_block{
+        padding: 9px;
+    }
+    .seo__purple__dark_block{
+        padding: 20px 12px;
+    }
+    .main__conversation_description{
+        display: block;
+    }
+    .main__conversation{
+        padding: 7px 13px;
+    }
+    .main__conversaiton-right{
+        margin-top: 67px;
+    }
+    .conversation__card{
+        padding: 15px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .main__spyro__first__card, .main__conversation-left, .our__services__info-left{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .spyro__txt{
+        text-align: center;
+    }
+    .conversation__title{
+        text-align: center;
+    }
+    .main__conversaiton-right{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .conversation__card p:nth-child(3){
+        text-align: center;
+    }
+    .our__services_list{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        row-gap: 18px;
+    }
+    .our__services__info{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .main__spyro__second__card{
+        margin-top: 39px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .main__conversation-left{
+        margin-top: 20px;
+    }
+    .column__cards{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .cards__grey-line{
+        display: none;
+    }
+    .marketing__team__list-1, .marketing__team__list-2{
+        display: flex;
+        row-gap: 15px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .marketing__team__lists{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .jonathan__kent_card, .bruce__wayne_card, .james__brown_card, .diana__prince_card, .anthone__jones_card , .adam__evans_card{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .companies{
+        flex-direction: column;
+        margin-top: 54px;
+        margin-bottom: 32px;
+        row-gap: 20px;
+    }
+    .marketing__team{
+        padding-bottom: 43px;
+    }
+    .pricing__cards{
+        flex-direction: column;
+        row-gap: 20px;
+    }
+    .news__and__case-cards{
+        display: flex;
+    flex-direction: column;
+    column-gap: 16px;
+    row-gap: 20px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+    }
+    .get__in__touch_cards{
+        flex-direction: column;
+    }
+    .enquiry__form_content{
+        flex-direction: column;
+        align-items: center;
+    }
+    .enquiry__man{
+        display: none;
+    }
+    .enquiry__form{
+        margin-top: 179px;
+        flex-direction: column;
+    }
+    .enquiry__form__form{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .forms{
+        flex-direction: column;
+    }
+    .footer__nav{
+        flex-direction: column;
+        align-items: center;
+        padding-bottom: 18px;
+    }
+    .enquiry__Descpr{
+        display: none;
+    }
+    .column__cards {
+        flex-direction: column;
+        display: flex;
+        row-gap: 25px;
+        align-items: center;
+    }
+    .seo__footer__bottom_content{
+        display: flex;
+        flex-direction: column;
+    }
+    .seo__footer_left{
+        display: flex;
+        flex-direction: column;
+    }
+    .changelog__txt{
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .seo__footer_left a:nth-child(2){
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .footer__telephone{
+        flex-direction: column;
+        align-items: center;
+    }
+    .footer__geo, .footer__block_4, .footer__block_1, .footer__block_2, .footer__block_3{
+        margin-top: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .footer__gps, .footer__email{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .gps__txt{
+        text-align: center;
+    }
+    .yes__icon{
+        width: 12px;
+    }
+    .main__conversaiton-right{
+        margin-left: 34px;
+    }
+}
+@media only screen and (max-width: 345px){
+    .rocket__bg_icon{
+        width: 100%;
+        position: absolute;
+        left: -2px;
+        scale: 0.8;
+    }
+    .seo__purple_blocks{
+        flex-direction: column;
+        row-gap: 30px;
+        align-items: center;
+    }
+    .news__card {
+        scale: 0.91;
+    }
+    .news__and__case-cards {
+        align-items: center;
+    }
+    .get__in__touch__purple_content p:nth-child(2){
+        text-align: center;
+    }
+    .step__by__step_top p:nth-child(2){
+        line-height: 30px;
+    }
+}
+@media only screen and (max-width: 768px){
+    .seo__marketing__info_block, .info__card{
+        flex-direction: column;
+        row-gap: 20px;
+        align-items: center;
+    }
+    .main__spyro__first__card, .main__spyro__second__card, .main__conversation_description, .main__conversaiton-right, .our__services__info, .our__services__info-left{
+        flex-direction: column;
+        align-items: center;
+        display: flex;
+    }
+    .main__conversaiton-right{
+        margin-top: 200px;
+    }
+    .main__conversation-left, .pricing__cards{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .pricing__cards{
+        row-gap: 20px;
+    }
+    .our__services__info-left p:nth-child(2){
+        text-align: center;
+    }
+    .enquiry__man{
+        display: none;
+    }
+    .Name{
+        background: #FFFFFF;
+    border: 1px solid rgba(44, 18, 88, 0.1);
+    border-radius: 5px;
+    font-size: 18px;
+    line-height: 34px;
+    font-weight: 400;
+    padding-left: 17px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    color: #604B83;
+    }
+    .news__and__case-cards, .get__in__touch_cards{
+        flex-direction: column;
+        align-items: center;
+        row-gap: 25px;
+    }
+    .footer__nav{
+        flex-direction: column;
+        align-items: center;
+    }
+    .enquiry__form_content{
+        flex-direction: column;
+    }
+    .marketing__team__lists{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        column-gap: 233px;
+    }
+    .marketing__team__list-2{
+        margin: 0;
+    }
+    .marketing__team__list-1, .marketing__team__list-2{
+        flex-direction: column;
+        row-gap: 20px;
+    }
+    .cards__grey-line{
+        width: 168px;
+    }
+.our__services_list{
+    flex-direction: column;
+    row-gap: 35px;
+}
+    .main__conversation-left h3:nth-child(1){
+        text-align: center;
+        margin-right: 0px;
+    }
+}
+@media screen and (max-width: 610px){
+    .header__nav{
+        display: none;
+    }
+    .seo__marketing__info_block img:nth-child(2){
+        width: 100%;
+    }
+    .column__cards, .footer__nav{
+        display: flex;
+        flex-direction: column;
+        row-gap: 25px;
+    }
+    .cards__grey-line {
+        display: none;
+    }
+    .marketing__team__lists{
+        column-gap: 36px;
+    }
+    .enquiry__form__form{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .text__form{
+        width: 483px;
+    }
+    .footer__block_4, .seo__marketing__info_description{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+}
