@@ -1,6 +1,5 @@
 @media screen and (max-width: 555px) {
     .rocket__bg_icon{
-        scale: 1;
         width: 325px;
         height: 235px;
         position: absolute;
@@ -261,12 +260,15 @@
         margin-left: 34px;
     }
 }
-@media only screen and (max-width: 345px){
+@media only screen and (max-width: 387px){
     .rocket__bg_icon{
         width: 100%;
         position: absolute;
         left: -2px;
         scale: 0.8;
+        position: absolute;
+        top: 489px;
+        left: 3px;
     }
     .seo__purple_blocks{
         flex-direction: column;
